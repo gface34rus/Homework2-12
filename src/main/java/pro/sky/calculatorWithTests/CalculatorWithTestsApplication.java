@@ -1,4 +1,4 @@
-package pro.sky.calculatorWithTests2;
+package pro.sky.calculatorWithTests;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

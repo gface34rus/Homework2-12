@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pro.sky</groupId>
-	<artifactId>calculatorWithTests2</artifactId>
+	<artifactId>calculatorWithTests</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>calculatorWithTests2</name>
 	<description> project for Spring Boot</description>
@@ -33,6 +33,12 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
 		</dependency>
 
 		<dependency>

@@ -1,4 +1,4 @@
-package pro.sky.calculatorWithTests2;
+package pro.sky.calculatorWithTests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
